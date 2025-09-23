@@ -1,0 +1,62 @@
+Hope Artificial Intelligence
+Scenario Based Learning
+A company works with number of employees, all the works are dependents on the employees. Even
+if one of the employees resign the job immediately then assigned work will be not finished at the
+time, so delivery of the project to the clients will be delayed. Company planned to make solution for
+this, they want to know which employee may resign next. If they know previously, they can arrange
+alternative to avoid such problem. As an AI Engineer you must give Solution to this.
+A) How will you achieve this in AI?
+B) Find out the 3 -Stage of Problem Identification
+C) Name the project
+D) Create the dummy Dataset.
+
+
+
+
+
+
+A) Based of employees mode of interest in his job, and his salary is acceptable to that employees, this we previously predict that
+
+
+B) Machine learning  -  stage 1
+
+
+      Supervised Learing - stage 2
+
+
+      classification (categorical value) interested or not interested
+
+
+C) Employees mode of interest - Name of the project
+
+
+D)  sl.no. --   employee name -- department-- -------salary-- ----mode of interest
+
+
+           1             Arun                                Accounts                    25,000       yes, interested
+
+
+            2            karunakaran               sales manager          20,000        not interested
+
+
+             3           Muthukumar              Delivery person      12,000        not interested
+
+
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
