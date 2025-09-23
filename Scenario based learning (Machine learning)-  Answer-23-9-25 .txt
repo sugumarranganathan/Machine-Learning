@@ -30,16 +30,12 @@ B) Machine learning  -  stage 1
 C) Employees mode of interest - Name of the project
 
 
-D)  sl.no. --   employee name -- department-- -------salary-- ----mode of interest
+D)  sl.no. --   employee name ------ department-- -------salary-- ---    interest
+       1             Arun               Accoun             25,000       yes, interested
 
+        2            karunakaran       sales manager        20,000       not interested
 
-           1             Arun                                Accounts                    25,000       yes, interested
-
-
-            2            karunakaran               sales manager          20,000        not interested
-
-
-             3           Muthukumar              Delivery person      12,000        not interested
+        3            Muthukumar        Delivery person      12,000        not interested
 
 
 
@@ -49,6 +45,7 @@ D)  sl.no. --   employee name -- department-- -------salary-- ----mode of int
 
 
           
+
 
 
 
